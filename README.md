@@ -14,29 +14,29 @@ la classification supervisée.
 
 ## Projets
 
-### 🔍 Détection de fraude par Machine Learning
+###  Détection de fraude par Machine Learning
 Classification supervisée sur données fortement déséquilibrées.
 Comparaison de plusieurs algorithmes (Random Forest, XGBoost, SVM, KNN),
 avec réduction de dimension par ACP et techniques de rééquilibrage
 (Random Under Sampling, SMOTE, Tomek Links).
 
-### 📊 Analyse en Composantes Principales – Décathlon
+###  Analyse en Composantes Principales – Décathlon
 Analyse multivariée de performances sportives (décathlon) à l’aide de l’ACP
 afin de réduire la dimension des données et d’identifier des profils
 de performance (vitesse, endurance, lancers, sauts).
 
-### 📉 Prédiction du churn client
+###  Prédiction du churn client
 Modélisation du churn dans le secteur des télécommunications à partir
 de données réelles, incluant le nettoyage des données, l’analyse
 exploratoire, la gestion du déséquilibre des classes et
 l’interprétation des résultats.
 
-### ✉️ Détection de spam
+### Détection de spam
 Classification de messages textuels en spam / non-spam à l’aide de
 plusieurs algorithmes de machine learning et comparaison de leurs
 performances.
 
-### 🌐 Web scraping et collecte de données
+###  Web scraping et collecte de données
 Collecte automatisée de données textuelles depuis des pages web à l’aide
 de `requests` et `BeautifulSoup`, avec structuration des données pour
 une analyse ultérieure.
