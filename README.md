@@ -41,7 +41,7 @@ Collecte automatisée de données textuelles depuis des pages web à l’aide
 de `requests` et `BeautifulSoup`, avec structuration des données pour
 une analyse ultérieure.
 
-### ⚙️ Optimisation et descente de gradient
+###  Optimisation et descente de gradient
 Étude et implémentation de méthodes d’optimisation, notamment la descente
 de gradient stochastique, avec analyse de la convergence et de l’impact
 des paramètres.
